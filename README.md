@@ -34,11 +34,11 @@ todo-list-project/
 
 ### Empty State
 
-![Empty](assets/screenshot1.png)
+![Empty](assets/screenshot_1.PNG)
 
 ### Tasks Added
 
-![Tasks](assets/screenshot2.png)
+![Tasks](assets/screenshot_2.PNG)
 
 ## Future Improvements
 
